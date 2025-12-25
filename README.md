@@ -66,10 +66,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras q
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JhosepSF&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhosepSF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhosepSF&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
-
 </div>
 
 ---
