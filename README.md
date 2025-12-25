@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jhosep Sánchez
 
-<!--
-**JhosepSF/JhosepSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Full Stack | Python | React Native | Machine Learning
 
-Here are some ideas to get you started:
+- 💻 Me apasiona desarrollar soluciones con IA y visión por computadora
+- 🎓 Experiencia en proyectos de Deep Learning y análisis de datos
+- 📱 Desarrollo de aplicaciones móviles con React Native
+- 🐄 Creador de **VacaMetric** - Sistema de estimación de peso bovino con IA
+- 📫 Contáctame en: [tu-email@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso:
+
+**Backend:** Python, Django, FastAPI, PostgreSQL  
+**Frontend:** React Native, TypeScript, JavaScript  
+**Machine Learning:** PyTorch, YOLO, XGBoost, scikit-learn  
+**Herramientas:** Git, Docker, VS Code
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhosepSF&show_icons=true&theme=dark)
