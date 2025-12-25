@@ -8,7 +8,6 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras q
 
 ### 💡 Sobre mí
 
-- 🐄 **Creador de VacaMetric** - Sistema de estimación de peso bovino usando Deep Learning y Computer Vision
 - 🧠 Especialista en **Machine Learning** con experiencia en PyTorch, YOLO, XGBoost y PaDiM
 - ☕ Desarrollador **Java/Spring Boot** para aplicaciones empresariales robustas
 - 📱 Desarrollador de **aplicaciones móviles** con React Native y Expo
