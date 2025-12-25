@@ -1,16 +1,18 @@
 # 👋 ¡Hola! Soy Jhosep Sánchez
 
-## 🚀 Desarrollador Full Stack | Python | React Native | Machine Learning | PHP
+## 🚀 Desarrollador Full Stack | Python | Java | React Native | Machine Learning
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras que resuelven problemas reales. Especializado en inteligencia artificial, desarrollo web y aplicaciones móviles.
+Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras que resuelven problemas reales. Especializado en inteligencia artificial, desarrollo web con Spring Boot, y aplicaciones móviles.
 
 ---
 
 ### 💡 Sobre mí
 
+- 🐄 **Creador de VacaMetric** - Sistema de estimación de peso bovino usando Deep Learning y Computer Vision
 - 🧠 Especialista en **Machine Learning** con experiencia en PyTorch, YOLO, XGBoost y PaDiM
+- ☕ Desarrollador **Java/Spring Boot** para aplicaciones empresariales robustas
 - 📱 Desarrollador de **aplicaciones móviles** con React Native y Expo
-- 🌐 Experiencia en **desarrollo web** con Django, PHP y tecnologías modernas
+- 🌐 Experiencia en **desarrollo web** con Django, Spring Boot, PHP y tecnologías modernas
 - 🔬 Enfocado en proyectos que combinan **IA con aplicaciones prácticas**
 - 📊 Análisis de datos y visualización con Python
 
@@ -21,6 +23,8 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras q
 #### **Backend & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -60,10 +64,12 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras q
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhosepSF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhosepSF&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JhosepSF&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhosepSF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhosepSF&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
 
 </div>
 
@@ -85,24 +91,14 @@ Sistema frontend para gestión de comedores con CSS personalizado.
 
 ---
 
-### 📈 Contribuciones
-
-```
-📦 Proyectos completados:     6+
-🌐 Tecnologías dominadas:     15+
-🧠 Modelos de IA deployados:  3
-📱 Apps móviles:              1
-```
-
----
 
 ---
 
 ### 📫 Contacto
 
 - 📧 Email: [jhosepsanflo@gmail.com]
-- 💼 LinkedIn: [[Tu perfil LinkedIn](https://www.linkedin.com/in/jhosep-s%C3%A1nchez-864465176/)]
-- 🌐 Portfolio: [[Tu website](https://personal-website-gmyq.onrender.com)]
+- 💼 LinkedIn: [[Jhosep Sánchez](https://www.linkedin.com/in/jhosep-s%C3%A1nchez-864465176/)]
+- 🌐 Portfolio: [[Website](https://personal-website-gmyq.onrender.com)]
 - 📱 GitHub: [@JhosepSF](https://github.com/JhosepSF)
 
 ---
@@ -120,4 +116,3 @@ Sistema frontend para gestión de comedores con CSS personalizado.
 ![Profile Views](https://komarev.com/ghpvc/?username=JhosepSF&color=blue&style=flat-square)
 
 </div>
-
