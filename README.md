@@ -111,6 +111,7 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 | **🏪 Spartafit-Web-Project** | Gestión web para gimnasios. | `HTML` `CSS` |
 | **🧑‍💼 Comedor-Front-Web** | Frontend para gestión de comedores. | `CSS` |
 | **🤖 VacaMetric** | Computer Vision / ML aplicado a un caso real. | `PyTorch` `OpenCV` |
+    
     </td>
   </tr>
 </table>
