@@ -1,113 +1,174 @@
-# 👋 ¡Hola! Soy Jhosep Sánchez
-
-## 🚀 Desarrollador Full Stack | Python | Java | React Native | Machine Learning
-
-Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras que resuelven problemas reales. Especializado en inteligencia artificial, desarrollo web con Spring Boot, y aplicaciones móviles.
-
----
-
-### 💡 Sobre mí
-
-- 🧠 Especialista en **Machine Learning** con experiencia en PyTorch, YOLO, XGBoost y PaDiM
-- ☕ Desarrollador **Java/Spring Boot** para aplicaciones empresariales robustas
-- 📱 Desarrollador de **aplicaciones móviles** con React Native y Expo
-- 🌐 Experiencia en **desarrollo web** con Django, Spring Boot, PHP y tecnologías modernas
-- 🔬 Enfocado en proyectos que combinan **IA con aplicaciones prácticas**
-- 📊 Análisis de datos y visualización con Python
-
----
-
-### 🛠️ Stack Tecnológico
-
-#### **Backend & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### **Frontend & Mobile**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### **Machine Learning & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Modelos y Técnicas:**
-- 🎯 **YOLOv8** - Detección y segmentación de objetos
-- 🔍 **PaDiM** - Detección de anomalías
-- 🌲 **XGBoost** - Ensemble learning (10-fold cross-validation)
-- 🏗️ **Wide ResNet-50** - Extracción de características
-- 📸 **Computer Vision** - Procesamiento de imágenes
-
-#### **Bases de Datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### **Herramientas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
----
-
-### 📊 Estadísticas de GitHub
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JhosepSF&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=38BDAE)](https://git.io/streak-stats)
+  <!-- Header with animated typing -->
+  <a href="https://github.com/JhosepSF">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=71b7ff&center=true&vCenter=true&width=900&lines=¡Hola!+Soy+Jhosep+Sánchez+👋;Full+Stack+%7C+Python+%7C+Java+%7C+React+Native;Machine+Learning+%7C+Computer+Vision+%7C+Data+Science;Construyendo+soluciones+reales+con+IA+🚀" alt="Typing SVG" />
+  </a>
+
+  <!-- Social badges -->
+  <p align="center">
+    <a href="https://github.com/JhosepSF">
+      <img src="https://img.shields.io/github/followers/JhosepSF?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="mailto:jhosepsanflo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/jhosep-s%C3%A1nchez-864465176/">
+      <img src="https://img.shields.io/badge/LinkedIn-Conecta-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://personal-website-gmyq.onrender.com">
+      <img src="https://img.shields.io/badge/Portfolio-Web-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
+  <!-- Visitor counter -->
+  <a href="https://github.com/JhosepSF">
+    <img src="https://komarev.com/ghpvc/?username=JhosepSF&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </a>
 
 </div>
 
----
+<br/>
 
-### 🌟 Otros Proyectos
+<!-- Wave divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-#### 🛒 **Market-Web-Project**
-Plataforma de comercio electrónico desarrollada con JavaScript y tecnologías web modernas.
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
 
-#### 🍽️ **Mozos-Web-Project**
-Sistema de gestión para restaurantes con interfaz HTML/CSS optimizada.
+### 👨‍💻 Sobre mí
 
-#### 🏪 **Spartafit-Web-Project**
-Aplicación web para gestión de gimnasios con HTML y CSS.
+Soy **Jhosep Sánchez**, **Desarrollador Full Stack** con enfoque en **Machine Learning** y **Computer Vision**.  
+Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (web, APIs, mobile).
 
-#### 🧑‍💼 **Comedor-Front-Web**
-Sistema frontend para gestión de comedores con CSS personalizado.
+- 🧠 **Machine Learning:** PyTorch, YOLO, XGBoost, PaDiM, scikit-learn  
+- ☕ **Backend:** Java/Spring Boot, Django, FastAPI  
+- 📱 **Mobile:** React Native + Expo  
+- 📊 **Data:** análisis y visualización con Python  
+- 🎯 **Interés:** proyectos aplicados (detección/segmentación, anomalías, modelos predictivos)
 
----
+> *"La simplicidad es la máxima sofisticación."*
 
+    </td>
+    <td width="45%" valign="center" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
+    </td>
+  </tr>
+</table>
 
----
+<br/>
+
+<!-- Skills Section -->
+<h3 align="center">🛠️ Arsenal Tecnológico</h3>
+
+<div align="center">
+  <!-- Ajusta icons a tu gusto: https://skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=python,java,spring,django,fastapi&perline=5" alt="Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&perline=5" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git&perline=5" alt="DB & Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,vscode,github,nodejs,php&perline=5" alt="More" />
+</div>
+
+<br/>
+
+<!-- AI Section -->
+### 🤖 Machine Learning & Computer Vision
+
+- 🎯 **YOLOv8**: detección y segmentación de objetos  
+- 🔍 **PaDiM**: detección de anomalías  
+- 🌲 **XGBoost**: ensemble learning (cross-validation)  
+- 🏗️ **Wide ResNet-50 / CNNs**: extracción de características  
+- 📸 **OpenCV**: preprocesamiento y pipelines de visión
+
+<br/>
+
+<!-- Stats Section -->
+<div align="center">
+  <h3>📊 GitHub Stats & Analytics</h3>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=JhosepSF&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="150" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhosepSF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Languages" />
+  </p>
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=JhosepSF&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="Streak" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Joke & Quote -->
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>😂 Programmer Humor</b><br/><br/>
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="90%" />
+    </td>
+    <td align="center" width="50%">
+      <b>💡 Daily Wisdom</b><br/><br/>
+      <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=typewriter" alt="Random Quote" width="90%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 Proyectos Destacados (Showcase)
+
+> Tip: cambia los links por tus repos reales que quieras “vitrina”.
+
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| **🛒 Market-Web-Project** | Plataforma e-commerce con tecnologías web modernas. | `JS` `HTML` `CSS` |
+| **🍽️ Mozos-Web-Project** | Sistema de gestión para restaurantes. | `HTML` `CSS` |
+| **🏪 Spartafit-Web-Project** | Gestión web para gimnasios. | `HTML` `CSS` |
+| **🧑‍💼 Comedor-Front-Web** | Frontend para gestión de comedores. | `CSS` |
+| **🤖 VacaMetric** | Computer Vision / ML aplicado a un caso real. | `PyTorch` `OpenCV` |
+
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://github-profile-trophies.vercel.app/?username=JhosepSF&theme=tokyonight&no-frame=true&no-bg=true&column=1" alt="Trophies" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <h3>📈 Frecuencia de Código</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JhosepSF&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" />
+</div>
+
+<br/>
 
 ### 📫 Contacto
 
-- 📧 Email: [jhosepsanflo@gmail.com]
-- 💼 LinkedIn: [[Jhosep Sánchez](https://www.linkedin.com/in/jhosep-s%C3%A1nchez-864465176/)]
-- 🌐 Portfolio: [[Website](https://personal-website-gmyq.onrender.com)]
-- 📱 GitHub: [@JhosepSF](https://github.com/JhosepSF)
+- 📧 Email: **jhosepsanflo@gmail.com**
+- 💼 LinkedIn: **Jhosep Sánchez** → https://www.linkedin.com/in/jhosep-s%C3%A1nchez-864465176/
+- 🌐 Portfolio: https://personal-website-gmyq.onrender.com
+- 🧑‍💻 GitHub: https://github.com/JhosepSF
 
----
-
-### 💭 Frase
-
-> "La mejor forma de predecir el futuro es crearlo con código" 💻✨
-
----
+<br/>
 
 <div align="center">
-  
+
 ### ⭐ Si te gusta mi trabajo, no olvides dejar una estrella en mis repositorios
 
-![Profile Views](https://komarev.com/ghpvc/?username=JhosepSF&color=blue&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=JhosepSF&color=blue&style=flat-square" alt="views" />
 
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" />
 </div>
