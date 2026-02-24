@@ -99,12 +99,11 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 </div>
 <br/>
 
-### 🚀 Proyectos Destacados (Showcase)
+### 🚀 Proyectos Destacados
 
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **🛒 Market-Web-Project** | Plataforma e-commerce con tecnologías web modernas. | `JS` `HTML` `CSS` |
