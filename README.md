@@ -97,23 +97,6 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
     <img src="https://streak-stats.demolab.com?user=JhosepSF&theme=tokyonight&hide_border=true&background=0d1117" height="150" alt="Streak" />
   </p>
 </div>
-
-<br/>
-
-<!-- Joke & Quote -->
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>😂 Programmer Humor</b><br/><br/>
-      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="90%" />
-    </td>
-    <td align="center" width="50%">
-      <b>💡 Daily Wisdom</b><br/><br/>
-      <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=typewriter" alt="Random Quote" width="90%" />
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 ### 🚀 Proyectos Destacados (Showcase)
