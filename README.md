@@ -101,8 +101,6 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 
 ### 🚀 Proyectos Destacados (Showcase)
 
-> Tip: cambia los links por tus repos reales que quieras “vitrina”.
-
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
@@ -114,9 +112,6 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 | **🏪 Spartafit-Web-Project** | Gestión web para gimnasios. | `HTML` `CSS` |
 | **🧑‍💼 Comedor-Front-Web** | Frontend para gestión de comedores. | `CSS` |
 | **🤖 VacaMetric** | Computer Vision / ML aplicado a un caso real. | `PyTorch` `OpenCV` |
-    </td>
-    <td width="35%" align="center" valign="top">
-      <img src="https://github-profile-trophies.vercel.app/?username=JhosepSF&theme=tokyonight&no-frame=true&no-bg=true&column=1" alt="Trophies" />
     </td>
   </tr>
 </table>
