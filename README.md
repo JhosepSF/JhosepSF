@@ -48,8 +48,6 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 - 📊 **Data:** análisis y visualización con Python  
 - 🎯 **Interés:** proyectos aplicados (detección/segmentación, anomalías, modelos predictivos)
 
-> *"La simplicidad es la máxima sofisticación."*
-
     </td>
     <td width="45%" valign="center" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif">
@@ -70,7 +68,7 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,git&perline=5" alt="DB & Tools" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,github,nodejs,php&perline=5" alt="More" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,nodejs,php&perline=5" alt="More" />
 </div>
 
 <br/>
@@ -133,7 +131,6 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 | **🏪 Spartafit-Web-Project** | Gestión web para gimnasios. | `HTML` `CSS` |
 | **🧑‍💼 Comedor-Front-Web** | Frontend para gestión de comedores. | `CSS` |
 | **🤖 VacaMetric** | Computer Vision / ML aplicado a un caso real. | `PyTorch` `OpenCV` |
-
     </td>
     <td width="35%" align="center" valign="top">
       <img src="https://github-profile-trophies.vercel.app/?username=JhosepSF&theme=tokyonight&no-frame=true&no-bg=true&column=1" alt="Trophies" />
