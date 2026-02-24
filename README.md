@@ -104,6 +104,7 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
+      
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **🛒 Market-Web-Project** | Plataforma e-commerce con tecnologías web modernas. | `JS` `HTML` `CSS` |
@@ -111,7 +112,6 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 | **🏪 Spartafit-Web-Project** | Gestión web para gimnasios. | `HTML` `CSS` |
 | **🧑‍💼 Comedor-Front-Web** | Frontend para gestión de comedores. | `CSS` |
 | **🤖 VacaMetric** | Computer Vision / ML aplicado a un caso real. | `PyTorch` `OpenCV` |
-    
     </td>
   </tr>
 </table>
