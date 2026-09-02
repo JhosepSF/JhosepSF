@@ -1,6 +1,5 @@
 <div align="center">
 
-
   <!-- Animated Typing SVG -->
   <a href="https://github.com/JhosepSF">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Jhosep+Sánchez+👋;Full+Stack+Developer+%7C+AI+%26+Computer+Vision+Engineer;Construyendo+soluciones+reales+con+IA%2C+IoT+y+Web+🚀;HealthTech+🔬+%7C+AgroTech+🌾+%7C+IoT+Telemetry+⚡" alt="Typing SVG" />
@@ -57,48 +56,30 @@ He diseñado e implementado plataformas end-to-end que integran:
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="20%"><strong>🤖 AI / ML & Visión</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&perline=10" alt="AI & ML" />
-        <br/>
-        <code>PyTorch</code> <code>YOLOv8</code> <code>OpenCV</code> <code>PaDiM</code> <code>Scikit-Learn</code> <code>XGBoost</code> <code>Pandas</code> <code>NumPy</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>⚙️ Backend & APIs</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,nodejs,express,php&perline=10" alt="Backend" />
-        <br/>
-        <code>Python (FastAPI / Django)</code> <code>Java (Spring Boot)</code> <code>Node.js (Express)</code> <code>PHP</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>🎨 Frontend & Mobile</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,bootstrap,html,css&perline=10" alt="Frontend" />
-        <br/>
-        <code>TypeScript</code> <code>JavaScript</code> <code>React</code> <code>React Native (Expo)</code> <code>TailwindCSS</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>🗄️ Bases de Datos & Cloud</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&perline=10" alt="Databases" />
-        <br/>
-        <code>PostgreSQL</code> <code>MySQL</code> <code>SQLite</code> <code>MongoDB</code> <code>Firebase</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%"><strong>🔧 Herramientas & DevOps</strong></td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,vscode,postman,cpp&perline=10" alt="Tools & IoT" />
-        <br/>
-        <code>Docker</code> <code>Git & GitHub</code> <code>Linux / Ubuntu</code> <code>C++ (IoT & Embebidos)</code> <code>Postman</code>
-      </td>
-    </tr>
-  </table>
+### 🤖 Inteligencia Artificial & Computer Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn,python&theme=dark" alt="AI Stack" />
+</p>
+
+### ⚙️ Backend & Arquitectura de Software
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,nodejs,express,php&theme=dark" alt="Backend Stack" />
+</p>
+
+### 💻 Frontend & Aplicaciones Móviles
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,bootstrap,html,css&theme=dark" alt="Frontend Stack" />
+</p>
+
+### 🗄️ Bases de Datos & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase&theme=dark" alt="Databases Stack" />
+</p>
+
+### 🔧 DevOps, Herramientas & IoT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,ubuntu,vscode,postman,cpp&theme=dark" alt="Tools & IoT Stack" />
+</p>
 
 </div>
 
