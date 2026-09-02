@@ -1,7 +1,5 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50,70,90,100&height=220&section=header&text=Jhosep%20Sánchez&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision%20Engineer&descSize=20&descAlignY=68" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing SVG -->
   <a href="https://github.com/JhosepSF">
