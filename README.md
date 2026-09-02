@@ -130,7 +130,7 @@ Me gusta construir soluciones tecnológicas que mezclen **IA + software real** (
 
 - 📧 Email: **jhosepsanflo@gmail.com**
 - 💼 LinkedIn: **Jhosep Sánchez** → https://www.linkedin.com/in/jhosep-s%C3%A1nchez-864465176/
-- 🌐 Portfolio: https://personal-website-gmyq.onrender.com
+- 🌐 Portfolio: [https://personal-website-gmyq.onrender.com](https://personal-website-naib.onrender.com)
 - 🧑‍💻 GitHub: https://github.com/JhosepSF
 
 <br/>
